@@ -1,0 +1,105 @@
+{
+  "executionContext": {
+    "errors": null,
+    "warnings": null,
+    "info": null
+  },
+  "success": true,
+  "userIdentityInfo": {
+    "uid": "sca26082091",
+    "guid": 2745226939,
+    "userPassword": null,
+    "regionId": "SCA",
+    "email": "test@kp.org",
+    "preferredGivenName": "WPPSCLEGCJFIIBCHFN",
+    "activationDate": {
+      "time": 1615363200000,
+      "zone": {
+        "id": "America/Los_Angeles",
+        "offset": -28800000,
+        "dstSavings": 3600000,
+        "transitions": 185
+      },
+      "year": 2021,
+      "month": 2,
+      "dayOfMonth": 10,
+      "dayOfYear": 69,
+      "dayOfWeek": 4,
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    },
+    "activationTime": {
+      "time": 1615393533000,
+      "zone": {
+        "id": "GMT",
+        "offset": 0,
+        "dstSavings": 0
+      },
+      "year": 2021,
+      "month": 2,
+      "dayOfMonth": 10,
+      "hour": 16,
+      "minute": 25,
+      "second": 33,
+      "millisecond": 0
+    },
+    "activationStatusCode": "ACTIVE",
+    "potentialFraudFlag": false,
+    "disabledDate": null,
+    "disabledFlag": false,
+    "disabledReasonCode": null,
+    "registrationMethod": "OOB",
+    "termsAndCondAccepted": "1#1710911300024",
+    "serviceArea": null,
+    "lastPwdResetTime": {
+      "time": 1710916828000,
+      "zone": {
+        "id": "GMT",
+        "offset": 0,
+        "dstSavings": 0
+      },
+      "year": 2024,
+      "month": 2,
+      "dayOfMonth": 20,
+      "hour": 6,
+      "minute": 40,
+      "second": 28,
+      "millisecond": 0
+    },
+    "firstTimeActivationDate": null,
+    "firstTimeActivationTime": null,
+    "pwdAlternateFormFlag": false,
+    "lastFailedLogin": null,
+    "lastLoginAttempt": null,
+    "lastSuccessfulLogin": null,
+    "loginTryCount": 0,
+    "lockOutTime": null,
+    "myChartAccountCreatedTime": null,
+    "externalUserBirthDate": "1986-03Z",
+    "emailUpdatedTime": {
+      "time": 1710911305417,
+      "zone": {
+        "id": "GMT",
+        "offset": 0,
+        "dstSavings": 0
+      },
+      "year": 2024,
+      "month": 2,
+      "dayOfMonth": 20,
+      "hour": 5,
+      "minute": 8,
+      "second": 25,
+      "millisecond": 417
+    },
+    "forgotUserIdFailureCount": null,
+    "forgotPasswordFailureCount": null,
+    "tempPwdExpirationTime": null,
+    "preferredLanguage": "EN",
+    "firstTimeSignOnDateTime": null,
+    "termsAndCondAcceptedList": ["1#1710911300024"],
+    "role": null,
+    "onboardedTime": null,
+    "empiID": 584758
+  }
